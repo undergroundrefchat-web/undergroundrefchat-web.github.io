@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.undergroundrefchat.runes",
+    "sha256_cert_fingerprints": ["0E:F1:CF:B2:BD:7C:A5:40:47:44:AC:A9:A7:ED:04:58:BF:90:05:FA:3B:A4:B0:E1:5B:F4:3F:13:24:86:75:80"]
+  }
+}]
